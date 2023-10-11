@@ -1,2 +1,2 @@
 # AVR
-Tasks for MCU interfacing course
+Tasks for MCU interfacing course using AVR (at mega32)
