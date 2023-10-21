@@ -1,5 +1,6 @@
 2- Write Embedded c code to control a 7-segment using
-two push buttons. ( 10 points)
+two push buttons.
+
 Requirements:
 • The two switches are connected to pin 0 & 1 in PORTA.
 • If the switch1 is pressed just increase the number appeared
